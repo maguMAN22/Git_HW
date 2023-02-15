@@ -34,4 +34,10 @@
 
 * Хоккей
 
-![Волейбол](https://ir.ozone.ru/multimedia/c1000/1021587030.jpg) 
+![Волейбол](https://ir.ozone.ru/multimedia/c1000/1021587030.jpg)
+
+<span style="color:yellow"> **ЦВЕТА**</span>
+
+<span style="color:green"> зелёный текст.</span>
+
+<span style="color:blue"> синий текст.</span>
