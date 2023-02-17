@@ -41,3 +41,10 @@
 <span style="color:green"> зелёный текст.</span>
 
 <span style="color:blue"> синий текст.</span>
+<span style="color:blue"> синий текст.</span>
+
+
+
+## Добавим кота (одного)  
+ 
+![это кот](cat.jpg) 
